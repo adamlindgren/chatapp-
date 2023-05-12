@@ -1,0 +1,24 @@
+{
+  "name": "webbserverprogramering",
+  "version": "1.0.0",
+  "description": "lär mig node",
+  "main": "uppgift1.js",
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webbseverprogramering",
+    "node"
+  ],
+  "author": "adam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "mysql2": "^3.2.4",
+    "socket.io": "^4.5.4"
+  }
+}
